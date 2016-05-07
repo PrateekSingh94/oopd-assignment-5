@@ -1,2 +1,3 @@
 # oopd-assignment-5
-Assignment 5 of OOPD subject
+There are problems with filtering the .txt file provided.
+The file contains missing values,illegal SQL characters
